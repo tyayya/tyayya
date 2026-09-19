@@ -1,4 +1,4 @@
-# Hey, I'm Aya ✨
+# Hey, I'm Aya! 👋
 **AI student @ UPC | Exploring how machines perceive, learn, and act.**
 
 My main focus is on building intelligent systems that can meaningfully understand and interact with complex environments.
